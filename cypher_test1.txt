@@ -1,0 +1,3 @@
+MATCH (a:Person)-[e] -> (b:Person)
+WHERE a.node_name="DONALD J. TRUMP"
+RETURN a.node_id, a.node_name, b.node_id, b.node_name, e.edge_id
