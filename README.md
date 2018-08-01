@@ -3,4 +3,4 @@
 
 * **My MySQL database is uploaded** 
 
-* **Set the testcypher.java as the main class. And you should change the database connection in the DBConnection class. ** 
+* **Set the testcypher.java as the main class. And you should change the database connection in the DBConnection class.** 
